@@ -1,0 +1,11 @@
+{
+  "name": "icon-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate-icon-font": "node generate-icon-font.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}

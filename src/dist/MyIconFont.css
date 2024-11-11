@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "MyIconFont";
+  src: url('MyIconFont.eot?t=1731318087924'); /* IE9*/
+  src: url('MyIconFont.eot?t=1731318087924#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("MyIconFont.woff2?t=1731318087924") format("woff2"),
+  url("MyIconFont.woff?t=1731318087924") format("woff"),
+  url('MyIconFont.ttf?t=1731318087924') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('MyIconFont.svg?t=1731318087924#MyIconFont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="MyIconFont-"], [class*=" MyIconFont-"] {
+  font-family: 'MyIconFont' !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.MyIconFont-acf:before { content: "\ea01"; }
+.MyIconFont-acre:before { content: "\ea02"; }
+.MyIconFont-adapter:before { content: "\ea03"; }
+.MyIconFont-addon:before { content: "\ea04"; }
+.MyIconFont-admin:before { content: "\ea05"; }
+.MyIconFont-adr:before { content: "\ea06"; }
+.MyIconFont-agda:before { content: "\ea07"; }
+.MyIconFont-alacritty:before { content: "\ea08"; }
+
+
